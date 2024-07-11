@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl" Alias="Self" Namespace="projedbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012">
+  <EntityType Name="PersonelTable">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Nullable="false" StoreGeneratedPattern="Identity" Type="int" />
+    <Property Name="name" MaxLength="50" Type="nvarchar" />
+    <Property Name="surname" MaxLength="50" Type="nvarchar" />
+    <Property Name="age" MaxLength="50" Type="nvarchar" />
+    <Property Name="position" Type="nvarchar(max)" />
+    <Property Name="identityNo" MaxLength="50" Type="nvarchar" />
+  </EntityType>
+  <EntityContainer Name="projedbModelStoreContainer">
+    <EntitySet Name="PersonelTable" EntityType="Self.PersonelTable" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

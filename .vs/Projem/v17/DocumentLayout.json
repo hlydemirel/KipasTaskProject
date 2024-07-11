@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|c:\\users\\h\u00FClya\\desktop\\kipastaskproject\\projem\\views\\home\\_editpersonelpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|solutionrelative:projem\\views\\home\\_editpersonelpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\projem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|solutionrelative:projem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\projem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|solutionrelative:projem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\projem\\models\\entity\\personellistentity.edmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|solutionrelative:projem\\models\\entity\\personellistentity.edmx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\projem\\models\\entity\\personeltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|solutionrelative:projem\\models\\entity\\personeltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\projem\\models\\entity\\personellistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|solutionrelative:projem\\models\\entity\\personellistentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\projem\\models\\entity\\personellistentity.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|solutionrelative:projem\\models\\entity\\personellistentity.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\projem\\models\\entity\\personellistentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|solutionrelative:projem\\models\\entity\\personellistentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\projem\\models\\entity\\personellistentity.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72F29474-9553-4F71-B35D-8C161CEB592D}|Projem\\Projem.csproj|solutionrelative:projem\\models\\entity\\personellistentity.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_EditPersonelPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Views\\Home\\_EditPersonelPartial.cshtml",
+              "RelativeDocumentMoniker": "Projem\\Views\\Home\\_EditPersonelPartial.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Views\\Home\\_EditPersonelPartial.cshtml",
+              "RelativeToolTip": "Projem\\Views\\Home\\_EditPersonelPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T16:00:26.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Projem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Projem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:56:42.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Projem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T15:51:41.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonelListEntity.edmx",
+              "DocumentMoniker": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.edmx",
+              "RelativeDocumentMoniker": "Projem\\Models\\Entity\\PersonelListEntity.edmx",
+              "ToolTip": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.edmx",
+              "RelativeToolTip": "Projem\\Models\\Entity\\PersonelListEntity.edmx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-11T15:46:48.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonelListEntity.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.cs",
+              "RelativeDocumentMoniker": "Projem\\Models\\Entity\\PersonelListEntity.cs",
+              "ToolTip": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.cs",
+              "RelativeToolTip": "Projem\\Models\\Entity\\PersonelListEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:41:37.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonelTable.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelTable.cs",
+              "RelativeDocumentMoniker": "Projem\\Models\\Entity\\PersonelTable.cs",
+              "ToolTip": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelTable.cs",
+              "RelativeToolTip": "Projem\\Models\\Entity\\PersonelTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:41:39.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonelListEntity.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.edmx.diagram",
+              "RelativeDocumentMoniker": "Projem\\Models\\Entity\\PersonelListEntity.edmx.diagram",
+              "ToolTip": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.edmx.diagram",
+              "RelativeToolTip": "Projem\\Models\\Entity\\PersonelListEntity.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-11T15:41:33.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonelListEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Projem\\Models\\Entity\\PersonelListEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.Designer.cs",
+              "RelativeToolTip": "Projem\\Models\\Entity\\PersonelListEntity.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:41:32.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonelListEntity.Context.tt",
+              "DocumentMoniker": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.Context.tt",
+              "RelativeDocumentMoniker": "Projem\\Models\\Entity\\PersonelListEntity.Context.tt",
+              "ToolTip": "C:\\Users\\H\u00FClya\\Desktop\\KipasTaskProject\\Projem\\Models\\Entity\\PersonelListEntity.Context.tt",
+              "RelativeToolTip": "Projem\\Models\\Entity\\PersonelListEntity.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-11T15:41:31.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@model Projem.Models.Entity.PersonelTable
+
+@using (Html.BeginForm("Guncelle", "Home", FormMethod.Post))
+{
+<div class="form-group">
+    <label>Personel Numarası</label>
+    @Html.TextBoxFor(m => m.id, new { @class = "form-control", @readonly = "readonly" })
+
+    <br />
+
+    <label>Personel Adı</label>
+    @Html.TextBoxFor(m => m.name, new { @class = "form-control" })
+
+    <br />
+
+    <label>Personel Soyadı</label>
+    @Html.TextBoxFor(m => m.surname, new { @class = "form-control" })
+
+    <br />
+
+    <label>Personel Yaşı</label>
+    @Html.TextBoxFor(m => m.age, new { @class = "form-control" })
+
+    <br />
+
+    <label>Personel Görevi</label>
+    @Html.TextBoxFor(m => m.position, new { @class = "form-control" })
+
+    <br />
+
+    <label>Personel TC</label>
+    @Html.TextBoxFor(m => m.identityNo, new { @class = "form-control" })
+
+    <br />
+
+    <div>
+        <button class="btn btn-warning">Personel Bilgilerini Güncelle</button>
+    </div>
+</div>
+}
